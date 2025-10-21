@@ -563,6 +563,10 @@ const modalTemplates = {
                             <strong>Portfolio Development</strong>
                             <p>Get advice on building a strong portfolio for job applications, freelance work, or grant applications in digital arts.</p>
                         </div>
+                        <div class="feature-box">
+                            <strong>Developing Your Artistic Vision with Blender</strong>
+                            <p>Explore how Blender can enhance and expand your artistic practice. Discuss creative possibilities and techniques specific to your artistic goals and medium.</p>
+                        </div>
                     </div>
 
                     <div class="modal-section">
@@ -593,7 +597,7 @@ const modalTemplates = {
                     <h2 class="modal-title">Phase 4: Industry Panel Discussion</h2>
                 </div>
                 <div class="modal-content">
-                    <p style="font-size: 1.1em; margin-bottom: 30px;">A one-hour panel session with practicing digital artists who use Blender professionally. Gain real-world insights, learn from case studies, and discover career opportunities in the field.</p>
+                    <p style="font-size: 1.1em; margin-bottom: 30px;">A one-hour panel session with practicing digital artists who use Blender professionally. Gain real-world insights, learn from case studies, and see how artists are incorporating Blender into their creative practice.</p>
 
                     <div class="modal-section">
                         <h3>Panel Format</h3>
@@ -614,13 +618,13 @@ const modalTemplates = {
                     <div class="modal-section">
                         <h3>What You'll Learn</h3>
                         <ul style="list-style: none; padding: 0; margin-top: 15px;">
-                            <li style="padding: 8px 0; color: #cbd5e1;">💼 How professionals use Blender in different industries</li>
+                            <li style="padding: 8px 0; color: #cbd5e1;">💼 How digital artists use Blender in their creative practice</li>
                             <li style="padding: 8px 0; color: #cbd5e1;">🎨 Real-world project workflows from concept to completion</li>
                             <li style="padding: 8px 0; color: #cbd5e1;">🤝 Collaboration techniques with clients and creative teams</li>
                             <li style="padding: 8px 0; color: #cbd5e1;">⚡ Problem-solving strategies for technical challenges</li>
-                            <li style="padding: 8px 0; color: #cbd5e1;">📈 Career paths and progression in digital arts</li>
+                            <li style="padding: 8px 0; color: #cbd5e1;">✨ Real-world application examples across different artistic mediums</li>
                             <li style="padding: 8px 0; color: #cbd5e1;">🌍 Current trends in VR/AR and immersive experiences</li>
-                            <li style="padding: 8px 0; color: #cbd5e1;">💡 Tips for building a professional portfolio and finding work</li>
+                            <li style="padding: 8px 0; color: #cbd5e1;">💡 Practical tips for integrating Blender into your artistic workflow</li>
                         </ul>
                     </div>
 
