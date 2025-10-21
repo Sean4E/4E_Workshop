@@ -563,10 +563,6 @@ const modalTemplates = {
                             <strong>Portfolio Development</strong>
                             <p>Get advice on building a strong portfolio for job applications, freelance work, or grant applications in digital arts.</p>
                         </div>
-                        <div class="feature-box">
-                            <strong>Career Pathways</strong>
-                            <p>Discuss opportunities in game development, VR/AR, film/animation, architectural visualization, product design, and more.</p>
-                        </div>
                     </div>
 
                     <div class="modal-section">
@@ -694,49 +690,7 @@ const modalTemplates = {
                     <h2 class="modal-title">Who Should Apply</h2>
                 </div>
                 <div class="modal-content">
-                    <p style="font-size: 1.1em; margin-bottom: 30px;">This programme is designed for artists ready to expand into digital 3D creation, regardless of their current medium or experience level with technology.</p>
-
-                    <div class="modal-section">
-                        <h3>Perfect For:</h3>
-                        <div class="feature-box">
-                            <strong>Digital Artists</strong>
-                            <p>Those already working in digital mediums (digital painting, graphic design, photography) who want to add 3D skills to their toolkit.</p>
-                        </div>
-                        <div class="feature-box">
-                            <strong>Traditional Artists Transitioning</strong>
-                            <p>Painters, sculptors, illustrators, and other visual artists exploring digital tools and VR/AR as new creative mediums.</p>
-                        </div>
-                        <div class="feature-box">
-                            <strong>Creative Professionals</strong>
-                            <p>Designers, architects, educators, or content creators who see potential in 3D and immersive technologies for their work.</p>
-                        </div>
-                        <div class="feature-box">
-                            <strong>Career Changers</strong>
-                            <p>Individuals looking to pivot into digital arts, game development, VR/AR industries, or related creative technology fields.</p>
-                        </div>
-                    </div>
-
-                    <div class="modal-section">
-                        <h3>What We're Looking For</h3>
-                        <ul style="list-style: none; padding: 0; margin-top: 15px;">
-                            <li style="padding: 8px 0; color: #cbd5e1;">🎨 <strong>Creative Practice:</strong> Active engagement in any form of visual arts (traditional or digital)</li>
-                            <li style="padding: 8px 0; color: #cbd5e1;">💡 <strong>Motivation:</strong> Clear interest in VR/AR and digital art creation</li>
-                            <li style="padding: 8px 0; color: #cbd5e1;">⏰ <strong>Commitment:</strong> Ability to attend all sessions and practice between classes</li>
-                            <li style="padding: 8px 0; color: #cbd5e1;">🖥️ <strong>Basic Tech Skills:</strong> Comfortable using computers, installing software, managing files</li>
-                            <li style="padding: 8px 0; color: #cbd5e1;">🎯 <strong>Goals:</strong> Specific ideas for how you'd use Blender in your practice</li>
-                        </ul>
-                    </div>
-
-                    <div class="modal-section">
-                        <h3>Experience Level</h3>
-                        <p><strong>No 3D Experience Required</strong> - This is a beginner-friendly programme. We start from the basics and build systematically.</p>
-                        <p style="margin-top: 15px;"><strong>Previous 3D Experience?</strong> If you have some Blender or 3D software experience, you'll still benefit from the structured curriculum, VR/AR specialization, and professional guidance. Use consultation time for advanced topics.</p>
-                    </div>
-
-                    <div class="modal-section">
-                        <h3>Application Process</h3>
-                        <p>Submit a portfolio showing your current artistic practice (can be traditional or digital work). Complete a brief questionnaire about your goals and interest in Blender/VR/AR. Applications are reviewed to ensure a good fit and to build a cohort with complementary skills and perspectives.</p>
-                    </div>
+                    <p style="font-size: 1.1em; margin-bottom: 30px;">Digital Artists looking to incorporate Blender into their practice, or Digital Artists with limited Blender experience looking to upskill. Digital Artists are those defined under the Dig Arts Policy.</p>
                 </div>
             </div>
         </div>
